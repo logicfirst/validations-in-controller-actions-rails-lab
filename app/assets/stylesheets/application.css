@@ -19,3 +19,7 @@
   background-color: red;
   display: table;
 }
+
+.field {
+  column-width: auto;   
+}
